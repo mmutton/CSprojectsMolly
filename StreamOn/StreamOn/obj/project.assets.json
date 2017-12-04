@@ -12543,11 +12543,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Student\\Documents\\C#Projects\\StreamOn\\StreamOn\\StreamOn.csproj",
+      "projectUniqueName": "C:\\Users\\Student\\Desktop\\CSprojectsMolly-master\\StreamOn\\StreamOn\\StreamOn.csproj",
       "projectName": "StreamOn",
-      "projectPath": "C:\\Users\\Student\\Documents\\C#Projects\\StreamOn\\StreamOn\\StreamOn.csproj",
+      "projectPath": "C:\\Users\\Student\\Desktop\\CSprojectsMolly-master\\StreamOn\\StreamOn\\StreamOn.csproj",
       "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Student\\Documents\\C#Projects\\StreamOn\\StreamOn\\obj\\",
+      "outputPath": "C:\\Users\\Student\\Desktop\\CSprojectsMolly-master\\StreamOn\\StreamOn\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
